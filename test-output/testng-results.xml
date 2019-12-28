@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9378" started-at="2019-12-27T10:28:54Z" finished-at="2019-12-27T10:29:04Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9378" started-at="2019-12-27T10:28:54Z" finished-at="2019-12-27T10:29:04Z">
+      <class name="Modifying_profile_valid_case">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:Modifying_profile_valid_case@6d8a00e3]" name="beforeTest" is-config="true" duration-ms="6496" started-at="2019-12-27T15:58:54Z" finished-at="2019-12-27T15:59:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="ModifyingProfile()[pri:0, instance:Modifying_profile_valid_case@6d8a00e3]" name="ModifyingProfile" duration-ms="1758" started-at="2019-12-27T15:59:01Z" finished-at="2019-12-27T15:59:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ModifyingProfile -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:Modifying_profile_valid_case@6d8a00e3]" name="afterTest" is-config="true" duration-ms="1093" started-at="2019-12-27T15:59:03Z" finished-at="2019-12-27T15:59:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- Modifying_profile_valid_case -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
